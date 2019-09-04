@@ -52,6 +52,7 @@ Spezifische Fachgebiete (separate Gespräche, geplant)
   - Ist das üblicherweise ganze DNA oder nur Schnipsel?
     Welche Konsequenzen hat das für die Beweiskraft?
   - Vorgehen bei der Sicherung, Sauberkeit
+  - Ableitung von Täterinformationen aus der DNA (Augenfarbe, Verwandte Personen, ...)?
   - Beweiskraft
 
 * Waffen
